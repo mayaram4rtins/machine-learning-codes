@@ -12,7 +12,7 @@
 
 # :page_facing_up: Project Description
 
-This repository contains the codes built regarding the classes from Alura concerning Machine Learning. Is those classes, I was able to learn about classification, regression and clustering when it comes to the Machine Learning pratice and also data treatment using Python so the data would fit the model the machine learning needed to function.
+This repository contains the codes built regarding the classes from Alura concerning Machine Learning. Is those classes, I was able to learn about classification, regression, dimensionality reduction and clustering when it comes to the Machine Learning pratice and also data treatment using Python so the data would fit the model the machine learning needed to function.
 
 # :wrench: Project Individual Development
 
